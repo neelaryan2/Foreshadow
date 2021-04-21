@@ -1,6 +1,6 @@
 # Foreshadow Attack PoC Experiment 
 
-Kindly note that this is just a stripped version of SGX-STEP for the Foreshadow PoC.\
+Kindly note that this is just a stripped (and slightly edited) version of SGX-STEP for the Foreshadow PoC.\
 All the PoC development credits go to [SGX-STEP](https://github.com/jovanbulck/sgx-step).
 
 ## CS 741 Course Project
